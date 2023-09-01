@@ -1,0 +1,12 @@
+.estrelinhas {
+    width: 50%;
+}
+
+.descricao__autora-livro {
+    display: flex;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--azul);
+    margin: 0.2em 0;
+}
+
